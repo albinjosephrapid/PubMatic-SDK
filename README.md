@@ -1,7 +1,7 @@
 ### PubMatic Mobile SDK
 
 Thanks for visiting the PubMatic Mobile SDK page! 
-PubMatic is the leading, independent media technology company focused on helping publishers maximize the value of their digital assets, leverage their brand and extend their audience scale across all their chosen platforms.
+[PubMatic](https://www.pubmatic.com) is the leading, independent media technology company focused on helping publishers maximize the value of their digital assets, leverage their brand and extend their audience scale across all their chosen platforms.
 The PubMatic Mobile SDK helps application developers to use the robust PubMatic platform for monetizing their mobile application inventory. Once the SDK is integrated with the application, developers can then use the various features in the PubMatic platform to control, monitor and optimize the performance of their inventory’s monetization.
 
 ### SDK Documentation
