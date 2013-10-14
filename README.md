@@ -1,5 +1,3 @@
-# PubMatic-SDK
-============
 ### PubMatic Mobile SDK
 
 Thanks for visiting the PubMatic Mobile SDK page! 
@@ -8,7 +6,7 @@ The PubMatic Mobile SDK helps application developers to use the robust PubMatic 
 
 ### SDK Documentation
 
-The detailed documentation for downloading and using the SDK is available on the [wiki](https://github.com/PubMatic/PubMatic-SDK/wiki/Main-Page) 
+The detailed documentation for downloading and using the SDK is available on the [wiki](https://github.com/PubMatic/PubMatic-SDK/wiki/Main-Page).
 The [home](https://github.com/PubMatic/PubMatic-SDK/wiki/Main-Page) page provides information about the features and benefits of the PubMatic Mobile SDK.
 
 ### SDK Distributions
