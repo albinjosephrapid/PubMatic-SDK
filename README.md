@@ -1,4 +1,4 @@
-### PubMatic Mobile SDK
+## PubMatic Mobile SDK
 
 Thanks for visiting the PubMatic Mobile SDK page! 
 [PubMatic](http://www.pubmatic.com) is the leading, independent media technology company focused on helping publishers maximize the value of their digital assets, leverage their brand and extend their audience scale across all their chosen platforms.
