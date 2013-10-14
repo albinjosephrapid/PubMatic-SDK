@@ -1,6 +1,5 @@
 # PubMatic-SDK
 ============
-
 ### PubMatic Mobile SDK
 
 Thanks for visiting the PubMatic Mobile SDK page! 
