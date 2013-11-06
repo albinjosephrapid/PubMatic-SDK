@@ -13,7 +13,7 @@ The [home](https://github.com/PubMatic/PubMatic-SDK/wiki/Main-Page) page provide
 
 PubMatic provides two distributions of the SDK depending upon your choice of mobile operating systems – Android and iOS. 
 Each of these SDK packages includes detailed class documentation in the form of an API Guide (PDF format).
-The [Android SDK]((https://github.com/PubMatic/PubMatic-SDK/wiki/Android-SDK) page provides information about downloading and using the Android SDK in your application along with code samples.
+The [Android SDK](https://github.com/PubMatic/PubMatic-SDK/wiki/Android-SDK) page provides information about downloading and using the Android SDK in your application along with code samples.
 The [iOS SDK](https://github.com/PubMatic/PubMatic-SDK/wiki/iOS-SDK) page provides information about downloading and using the iOS SDK in your application along with code samples.
 
 ### Terms of Service
