@@ -116,6 +116,6 @@ We suggest that you consult your legal advisor before submitting a notice or cou
 
 Copyright (c) 2013 PubMatic Inc. All rights reserved.
 
-[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/183e94488da2af205229e7dce2fefe59 "githalytics.com")](http://githalytics.com/PubMatic/PubMatic-SDK)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/PubMatic/pubmatic-sdk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
