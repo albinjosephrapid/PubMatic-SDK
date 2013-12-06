@@ -116,8 +116,6 @@ We suggest that you consult your legal advisor before submitting a notice or cou
 
 Copyright (c) 2013 PubMatic Inc. All rights reserved.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/PubMatic/pubmatic-sdk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 
 
 
